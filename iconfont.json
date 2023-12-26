@@ -1,0 +1,107 @@
+{
+  "id": "4296189",
+  "name": "docs",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77156",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3901025",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4552970",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e908",
+      "unicode_decimal": 59656
+    },
+    {
+      "icon_id": "5484244",
+      "name": "数据结构",
+      "font_class": "shujujiegou",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "7239764",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e732",
+      "unicode_decimal": 59186
+    },
+    {
+      "icon_id": "11372650",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e8ad",
+      "unicode_decimal": 59565
+    },
+    {
+      "icon_id": "11992918",
+      "name": "java",
+      "font_class": "java",
+      "unicode": "e6e0",
+      "unicode_decimal": 59104
+    },
+    {
+      "icon_id": "12600749",
+      "name": "java",
+      "font_class": "java1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "13972351",
+      "name": "计算机开发",
+      "font_class": "jisuanjikaifa",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "15559658",
+      "name": "QQ",
+      "font_class": "shejiaotubiao-03",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "15933094",
+      "name": "微信",
+      "font_class": "weixin1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "18243142",
+      "name": "开发",
+      "font_class": "development",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "19877146",
+      "name": "戴眼镜男生理科男理工男程序员",
+      "font_class": "daiyanjingnanshenglikenanligongnanchengxuyuan",
+      "unicode": "e7c7",
+      "unicode_decimal": 59335
+    },
+    {
+      "icon_id": "5634143",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "f017",
+      "unicode_decimal": 61463
+    }
+  ]
+}
